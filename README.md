@@ -28,14 +28,14 @@ Optional Features
 
 [fill in your optional user features here]
 [] date displayed
-{} displays "No weather data available"
+[] displays "No weather data available"
 ...
 2. Screen Archetypes
-[list first screen here]
-[list associated required story here]
+[Search Screen]
+Screen where the user will input the city they wish to see the weather reports of.
 ...
-[list second screen here]
-[list associated required story here]
+[Forcast Screen]
+The users shall see infomation about the forcast of that city including dates, temperatures, etc.
 ...
 3. Navigation
 Tab Navigation (Tab to Screen)
